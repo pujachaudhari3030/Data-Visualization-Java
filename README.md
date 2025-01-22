@@ -1,4 +1,5 @@
-# Data-Visualization-Java
+Repository Name: Data-Visualization-Java
+Data Visualization Application
 This project is a Java-based application that enables users to visualize data using various chart types such as Pie Chart, Bar Chart, Line Chart, Histogram, Scatter Plot, and Spider Chart. The user can input data, view it in a table, and dynamically generate different types of visualizations.
 
 Features
@@ -45,8 +46,3 @@ Create a new branch (feature/your-feature-name).
 Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature-name).
 Open a Pull Request.
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-JFreeChart Library for providing robust charting tools.
